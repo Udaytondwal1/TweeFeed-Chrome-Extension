@@ -1,0 +1,8 @@
+#shadowroot {
+    width: auto;
+    height: 32px;
+    padding: 2px 5px;
+    display: flex;
+    justify-content: end;
+    justify-items: center;
+}
